@@ -41,8 +41,8 @@ Ensure you have **Python 3.9+** installed on your system.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/stockpilot-pro.git
-cd stockpilot-pro
+git clone https://github.com/your-username/StockPilot-Pro.git
+cd StockPilot-Pro
 ```
 
 ### 3. Set Up a Virtual Environment (Recommended)
